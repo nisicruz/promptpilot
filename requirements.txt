@@ -3,3 +3,4 @@ flask-session
 python-dotenv
 supabase
 requests
+openai
